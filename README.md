@@ -1,4 +1,10 @@
 ### Hi, I'm Rafael Parisi 👋
 ## Fullstack Qt Developer
 
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parisi18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisi18&layout=compact&langs_count=7&theme=dracula"/>
+</div><br>
+
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,qt,raspberrypi,cmake,gitlab,visualstudio,vscode)](https://skillicons.dev)
