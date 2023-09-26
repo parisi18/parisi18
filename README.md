@@ -7,4 +7,4 @@
 </div><br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,qt,raspberrypi,cmake,gitlab,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,raspberrypi,cmake,gitlab,visualstudio,vscode)](https://skillicons.dev)
