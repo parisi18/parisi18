@@ -1,7 +1,7 @@
-### Hi, I'm Rafael Parisi 👋
+# Hi, I'm Rafael Parisi 👋
 ## Fullstack Qt Developer
 
-# SOBRE MIM 🇧🇷  
+### SOBRE MIM 🇧🇷  
 Desenvolvedor de Software 
 
 Olá, me chamo Rafael Parisi e sou um desenvolvedor de software apto para atuar em equipes nacionais e internacionais.
@@ -14,7 +14,7 @@ Atualmente estou cursando Ciência e Tecnologia com especialização em Engenhar
 Possuo inglês avançado e atualmente estou com um processo para obter cidadania italiana, com isso, os horizontes se expandem.
 
 
-# ABOUT ME 🇺🇸 
+### ABOUT ME 🇺🇸 
 
 Software Developer
 
