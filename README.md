@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Parisi 👋
+# Hi, I'm Rafael Parisi 👋😄
 ## Fullstack Qt Developer
 
 ### - SOBRE MIM 🇧🇷  
