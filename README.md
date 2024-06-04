@@ -33,7 +33,7 @@ I have advanced English and I am currently in the process of obtaining Italian c
 </div><br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,raspberrypi,cmake,gitlab,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,raspberrypi,cmake,gitlab,visualstudio,vscode,aws,githubactions,linux,mysql,sqlite,)](https://skillicons.dev)
 
 
 ## Contacts:
