@@ -7,9 +7,6 @@ Currently working as a Freelancer and Software Engineer intern at Terra Magna.
 </div><br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,qt,raspberrypi,cmake,gitlab,visualstudio,vscode,aws,githubactions,linux,mysql,sqlite,)](https://skillicons.dev)
-
-
 ## Contacts:
 
 <div> 
