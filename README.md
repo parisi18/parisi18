@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Parisi 👋😄
 ## Fullstack Developer
-Currently working as a Freelancer(Full-cycle) and Software Engineer intern at Terra Magna.
+Currently working as a Freelancer(Full-cycle).
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisi18&layout=compact&langs_count=7&theme=dracula"/>
