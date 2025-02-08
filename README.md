@@ -1,5 +1,5 @@
 # Hi, I'm Rafael Parisi 👋😄
-## Fullstack Software Engineer
+## Software Engineer
 Currently working as a Software Engineer Freelancer(Full-cycle).
 
 <div>  
