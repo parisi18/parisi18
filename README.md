@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Parisi 👋😄
-## Fullstack Developer
-Currently working as a Freelancer(Full-cycle).
+## Fullstack Software Engineer
+Currently working as a Software Engineer Freelancer(Full-cycle).
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisi18&layout=compact&langs_count=7&theme=dracula"/>
