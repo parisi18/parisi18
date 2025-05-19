@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Parisi 👋😄
 ## Software Engineer
-Currently working as a Software Engineer Freelancer(Full-cycle).
+Currently working as a Software Engineer Freelancer(Full-cycle) and international technical support (Restful APIs).
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisi18&layout=compact&langs_count=7&theme=dracula"/>
